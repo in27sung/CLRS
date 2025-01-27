@@ -1,6 +1,6 @@
 # INTRODUCTION TO ALGORITHMS FOURTH EDITION
 
-### [Contents](/Part1)
+### Contents
 
-### Part Ⅰ Foundations 
-### Part Ⅱ Sorting and Order Statistics
+#### [Part Ⅰ Foundations](/part1)
+#### Part Ⅱ Sorting and Order Statistics

@@ -2,5 +2,5 @@
 
 ### Contents
 
-#### [Part Ⅰ Foundations](/part1)
+#### [Part Ⅰ Foundations](/Part1)
 #### Part Ⅱ Sorting and Order Statistics

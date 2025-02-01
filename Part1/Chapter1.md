@@ -32,14 +32,13 @@
 - In order to perform more computations per second, therefore, chips are being designed to contain not just one but several processing 'cores'. We can liken these multicore computers to several sequential computers on a single chip. In other words, they are a type of 'parallel computer'.
 - Algorithms that reveive their input over time, rather than having all the input present at the start, are **online algorithms**.
 
-**Exercises**
+### Exercises
 
-**1.1-1**
+#### 1.1-1
 Describe your own real-world example that requires sorting. Describe one that requires finding the shortest distance between two points
 
-**Model Anser**: An example of a real world situation that would require sorintg would be if you wanted to keep track of a bunch of people's file folders and be able to look up a given name quickly. A convex hull might be needed if you needed to secure a wildlife sanctuary with fencing and had to contain a bunch of specific nesting locations.
 
-**1.1-2**
+#### 1.1-2
 Other than speed, what other mesures of efficiency might you need to consider in a real-world setting?
 
 **1.1-3**

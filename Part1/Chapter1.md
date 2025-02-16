@@ -32,29 +32,6 @@
 - In order to perform more computations per second, therefore, chips are being designed to contain not just one but several processing 'cores'. We can liken these multicore computers to several sequential computers on a single chip. In other words, they are a type of 'parallel computer'.
 - Algorithms that reveive their input over time, rather than having all the input present at the start, are **online algorithms**.
 
-### Exercises
-
-#### 1.1-1
-Describe your own real-world example that requires sorting. Describe one that requires finding the shortest distance between two points
-
-
-#### 1.1-2
-Other than speed, what other mesures of efficiency might you need to consider in a real-world setting?
-
-#### 1.1-3
-Select a data structure that you have seen, and discuss its strengths and limitations.
-
-#### 1.1-4
-How are the shortest-path and traveling-salesperson problems given above similar?
-How are they different?
-
-#### 1.1-5
-Suggest a real-world problem in which only the best solution will do. Then come up with one in which "approximately" the best solution is good enough.
-
-#### 1.1-6
-Describe a real-world problem in which sometimes the entire input is available before yuo need to solve the problem, but other times the input is not entirely available in advance and arrives over time.
-
-
 ## 1.2 Algorithms as a technology
 
 ### Efficiency:

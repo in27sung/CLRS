@@ -57,11 +57,29 @@ Describe a real-world problem in which sometimes the entire input is available b
 
 ## 1.2 Algorithms as a technology
 
-**Efficiency and Analysis:**
+### Efficiency:
+- Different algorithms devised to solve the same problem often differ dramatically in their efficiency.
 - An algorithms' efficiency is crucial, as it determines how well it scales with input size.
 - Analysis focuses on both **time complexity**(speed) and **space complexity**(memory usage).
+- In general, as the problem size increases, so does the relative advantage of efficient algorithms.
 
-**Algorithms and Problems:**
+### Algorithms and other technologies:
+- Total system performance depends on choosing efficient algorithms as much as on choosing fast hardware
+  - advanced computer architectures and fabrication technologies,
+  - eay-to-use, intutitive, graphical user interfaces (GUIs),
+  - object-oriented systems,
+  - integrated web technologies,
+  - fast networking, both wired and wireless,
+  - machine learning,
+  - and mobile devices.
+- An application that does not require algorithmic content at the application level relies heavily upon algorithms.
+  - The hardware design used algorithms.
+  - The design of any GUI relies on algorithms.
+  - Routing in networks relies heavily on algorithms.
+  - Then it was processed by a compiler, interpreter, or assembler, all of which make extensive use of algorithms.
+- **Machine learning** can be thought of as a method for performing algorithmic tasks without explicitly designing an algorithm, but instead inferring pattens from data and thereby automatically learning a solution.
+- **Data science** is an interdisciplinary field with the goal of extracting knowledge and insigts from strucured and unstructured data.
+- It is at larger problem sizes that the differences in efficiency bewteen algorithms become particularly prominent.
 - some problems are computationally hard(e.g., NP-complete), while others are solvable efficiently.
 - Algorithms procide structure to problem-solving and help assess what is computable.
 

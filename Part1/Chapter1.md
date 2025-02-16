@@ -18,7 +18,7 @@
 - Manufacturing and other commercial enterprises often need to allocate scarce resources in the most beneficial way.
 - Determine the shortest route from one intersection to another.
 
-### Data structures:**
+### Data structures:
 - is a way to store and organise data in orser to facilitate access and modifications.
 - Using the appropriate data structure or structures is an important part of algorithm design.
 
@@ -59,4 +59,3 @@
 - It is at larger problem sizes that the differences in efficiency bewteen algorithms become particularly prominent.
 - some problems are computationally hard(e.g., NP-complete), while others are solvable efficiently.
 - Algorithms procide structure to problem-solving and help assess what is computable.
-

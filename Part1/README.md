@@ -1,4 +1,4 @@
-# Part1 Foundations
+# Chapter 1 The Role of Algorithms in Computing 
 
 [1.1 Introduction](/Part1/Chapter1.md#11-algorithms)
 

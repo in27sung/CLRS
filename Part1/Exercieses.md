@@ -24,7 +24,7 @@ Describe a real-world problem in which sometimes the entire input is available b
 Give an example of an application that requries algorithmic content at the application level, and discuss the function of the algorithms involved.
 
 #### 1.2-2
-Suppose that for inputs of size _n_ on a paritcular computer, insertion sort runs in $8n^2$ steps and merge sort runs in $64nlg{n}$ steps. For which values of _n_ does insertion sort beat merge sort?
+Suppose that for inputs of size $n$ on a paritcular computer, insertion sort runs in $8n^2$ steps and merge sort runs in $64nlg{n}$ steps. For which values of _n_ does insertion sort beat merge sort?
 
 #### 1.2-3
-What is the smallest value of _n_ such that an algorithm whose running time is $100n^2$ runs faster than an algorithm whose running time is $2^n$ on the same machine?
+What is the smallest value of $n$ such that an algorithm whose running time is $100n^2$ runs faster than an algorithm whose running time is $2^n$ on the same machine?

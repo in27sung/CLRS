@@ -12,7 +12,7 @@
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/34172b0d-4abd-4f10-80f1-758d9cd140df" />
 
 ```pseudocode
-INSERTION-SORT(A,$n$)
+INSERTION-SORT(A, n)
 for i = 2 to n
   key = A[i]
   // Insert A[i] into the sorted subarray A[1:i - 1]
